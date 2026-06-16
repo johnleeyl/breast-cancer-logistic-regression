@@ -17,6 +17,7 @@ To apply supervised machine learning techniques to classify breast cancer cases 
 📊 Dataset
 
 * Source: Kaggle (Enhanced Breast Cancer Dataset)
+* https://www.kaggle.com/datasets/shivasingh4945/enhanced-breast-cancer-diagnostic-dataset
 * Number of samples: 5,500
 * Target variable: diagnosis
     * M → Malignant (1)
